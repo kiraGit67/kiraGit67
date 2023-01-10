@@ -1,6 +1,6 @@
 # Kirsten Anders
 ## Username: kiraGit67
-### Begonnen am: 06.01.2023 👋
+### Started at: 06.01.2023 👋
 
 <!--
 **kiraGit67/kiraGit67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
