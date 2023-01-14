@@ -7,9 +7,14 @@
 Here are some ideas to get you started:
 -->
 
-#### 🔭 I’m currently working on Web Dev Foundation / Your Frontend Developer Setup
+#### 🔭 I’m currently working on Web Dev Foundation / First Steps with Git
 
-#### 🌱 I’m currently learning my first steps on GitHub
+#### 🌱 I’m currently learning ...
+- Configuration of Git
+- Initializing new Git Repositories
+- How to add and commit files
+- to manage and to use remote repositories with Git and GitHub
+- to work with Visual Studio Code and Git
 
 ---
 
