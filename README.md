@@ -24,12 +24,16 @@ Here are some ideas to get you started:
   - Grid
   - Flexbox
   - Bootstrap
+- PHP / mySQL
+- Python
 - Content Management Systems
   - WordPress
   - Elementor
   - GREYD.Suite
 - ✏️ Drawing and Painting
 - 🍞 Baking 🍰 
+- 💃 Dancing🕺
+- 🐈 Cats🐈 🐈
 
 ---
 
